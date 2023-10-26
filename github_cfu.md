@@ -1,0 +1,5 @@
+- git clone
+- git push
+- git add
+- git commit
+- git status
